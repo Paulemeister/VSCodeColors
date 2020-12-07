@@ -12,6 +12,8 @@ I used these names for the colors (with an "VS" on front):
   - The tab that pops out of the sidebar
 - VSBlue:
   - Used in the blue bar at the bottom and the notification bubble in the toolbar
+- VSOrange:
+  - Color of the "blue" bar at the bottom while debugging
 - TopToolbar:
   - The toolbar holding open the tabs for open files
 - Tab:
@@ -21,6 +23,8 @@ I used these names for the colors (with an "VS" on front):
   - The actual text editor
   - The code overview scrollbar
   - Contains the syntax highighting
+- Debugger:
+  - The colors of the debugging bar
   
 
 Feel free to verify the colors and commit colors that I missed.
