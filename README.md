@@ -1,4 +1,4 @@
 # VSCodeColors
 
-Copy of the dark_vs.json clolor values in css format.
+Copy of the dark_vs.json color values in css format.
 The names match, but "." is replaced with "_"
